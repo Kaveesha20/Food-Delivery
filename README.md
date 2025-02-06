@@ -29,23 +29,23 @@ This is a full-stack food ordering web application built using the **MERN stack 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Kaveesha20/Food_Delivery.git
+   git clone https://github.com/Kaveesha20/Food-Delivery.git
    cd food-ordering-app
    # Backend dependencies
-cd backend
+cd backend  
 npm install
 
 # Frontend dependencies
-cd ../frontend
-npm install
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
+cd ../frontend  
+npm install  
+MONGO_URI=your_mongodb_connection_string  
+JWT_SECRET=your_jwt_secret  
 STRIPE_SECRET_KEY=your_stripe_secret_key
 # Start backend server
-cd backend
+cd backend  
 node server.js
 
 # Start frontend server
-cd ../frontend
+cd ../frontend  
 npm run dev
 # Demo Video
