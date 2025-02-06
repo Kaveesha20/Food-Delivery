@@ -197,7 +197,7 @@ export const food_list = [
         category: "Deserts"
     }, {
         _id: "12",
-        name: "Vanilla Ice Cream",
+        name: "Vanila Ice Cream",
         image: food_12,
         price: 120,
         description: "Food provides essential nutrients for overall health and well-being",
@@ -327,7 +327,7 @@ export const food_list = [
         category: "Noodles"
     }, {
         _id: "30",
-        name: "Veg Noodles",
+        name: "Vegi Noodles",
         image: food_30,
         price: 1200,
         description: "Food provides essential nutrients for overall health and well-being",
